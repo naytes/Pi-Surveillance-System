@@ -13,7 +13,7 @@ import datetime
 #make sure you have low security app acces enabled on your fromaddr google acc
 #you also need to have 2 factor authen disabled on the fromaddr
 
-toaddr = "xyz@gmail.com"
+toaddr = "abc@gmail.com"
 fromaddr = "xyz@gmail.com"
    
 #instance of MIMEMultipart 
